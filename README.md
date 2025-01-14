@@ -2,6 +2,13 @@
 
 Este projeto é uma API RESTful desenvolvida para gerenciar tópicos e discussões, como parte do desafio promovido pela Alura em parceria com o programa Oracle Next Education.
 
+## 🔧 Sobre o Projeto
+- Uma API Rest simples e robusta.
+- Segue as melhores práticas de programação.
+- Organização em camadas: domain, infra e controller.
+- Persistência de tópicos, respostas e cadastro de usuários com autenticação JWT.
+- Endpoints fornecem dados em formato JSON para integração com o front-end.
+
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem:** Java 17
 - **Framework:** Spring Boot (versão 3.3.5)
@@ -23,13 +30,6 @@ Principais dependências utilizadas:
 - **Springdoc OpenAPI:** Para documentação interativa da API.
 - **MySQL Connector:** Para conexão com o banco de dados.
 
-## 🔧 Sobre o Projeto
-- Uma API Rest simples e robusta.
-- Segue as melhores práticas de programação.
-- Organização em camadas: domain, infra e controller.
-- Persistência de tópicos, respostas e cadastro de usuários com autenticação JWT.
-- Endpoints fornecem dados em formato JSON para integração com o front-end.
-- Documentação acessível em `/swagger-ui/index.html`.
 
 ## 🏆 Conclusão
 Projeto desenvolvido como parte do desafio ONE da Oracle e Alura, com o objetivo de criar uma API robusta para gerenciamento de fóruns e discussões. 🚀
